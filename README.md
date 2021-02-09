@@ -6,6 +6,9 @@
 
 
 ## Table of Contents
+  - [Overview](#overview)
+  - [Concept](#concept)
+  - [Process](#process)
   - [Video](#video)     
   - [GIF](#gif)   
   - [Link](#link) 
@@ -14,7 +17,44 @@
   - [Usage](#usage)
   - [Contributers](#contributers)
   - [Contact](#contact)
+
+## Overview
+Tell SPB your dietary restrictions and what is inside your pantry and you will be given a list of concise, no-fluff recipes.  Gone are the days of reading through a chef’s life story, only to find later on that the dish uses a cream sauce when you clearly googled vegan pasta. Say goodbye to google and let SPB plan tonight’s meal.
+
+## Concept
+
+### Description
+	A web app that returns a detailed list of recipes based on a user’s 
+	ingredient list, dietary restrictions and cuisine preference
+
+### Motivation for Development
+	Dissatisfaction with google’s recipe search results 
+
+### User Story
+  A user on a ketogenic diet, craving a thai dish may have to read 
+  through dozens of recipes in google results.  With SPB, that search
+  is done in seconds after entering their ingredients on hand
   
+## Technologies Used
+
+  - Spoonacular API           
+  - Mongoose                   
+  - Mongo Atlas                
+  - Heroku                 
+  - Forage            
+  - GitHub                 
+  - Google                
+  - HTML 
+  - CSS  
+  - JS 
+  - MERN 
+   - React
+  - React Router 
+  - Express 
+  - AuthO 
+  - Bulma    
+
+
 ## Video
 <a href="https://youtu.be/E5xU8wh3sA0">
 Super Pantry Buddy YouTube Video</a>
