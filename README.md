@@ -79,11 +79,11 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
 Super Pantry Buddy YouTube Video</a>
 
 ## GIF
-<img src ="https://github.com/Super-Pantry-Buddy/spb/blob/master/client/src/assets/img/SuperPAntryBuddyGif.gif" alt="Super Pantry Buddy" width="670px" height="517px" />
+## <img src ="https://github.com/Super-Pantry-Buddy/spb/blob/master/client/src/assets/img/SuperPAntryBuddyGif.gif" alt="Super Pantry Buddy" width="670px" height="517px" />
 
 ## Link
 <a href="https://superpantrybuddy.herokuapp.com/">
-Super Pantry Buddy</a>
+## Super Pantry Buddy</a>
 
 ## Challenges and Successes
 
