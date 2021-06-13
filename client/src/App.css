@@ -408,11 +408,11 @@ color: black;
         font-size: 70px;
     }
     .navbar{
-        height:auto;
+        height:4rem;
     }
     .tabs {
-        font-size:x-large;
-        padding: 45px 0;
+        font-size: 3rem;
+        padding:2rem;
     }
     .h1Library{
         font-size:60px;

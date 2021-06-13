@@ -11,17 +11,17 @@ export default () => {
                 <ul>
                     <li>
                         <Link to="/search">
-                            <i className="fa fa-search" aria-hidden="true"></i>
+                            <i className="fa fa-search footerIcon" aria-hidden="true"></i>
                         </Link>
                     </li>
                     <li>
                         <Link to="/library">
-                            <i className="fa fa-list" aria-hidden="true"></i>
+                            <i className="fa fa-list footerIcon" aria-hidden="true"></i>
                         </Link>
                     </li>
                     <li>
                         <Link to="/settings">
-                            <i className="fa fa-cog" aria-hidden="true"></i>
+                            <i className="fa fa-cog footerIcon" aria-hidden="true"></i>
                         </Link>
                     </li>
                     <li>
@@ -32,15 +32,15 @@ export default () => {
                                     logout({ returnTo: window.location.origin })
                                 }>
                                 <i
-                                    className="fas fa-sign-out-alt"
+                                    className="fas fa-sign-out-alt footerIcon"
                                     aria-hidden="true"></i>
                             </Link>
                         ) : (
                             <Link
                                 to="/search"
                                 onClick={() => loginWithRedirect()}>
-                                <i
-                                    className="fas fa-sign-in-alt"
+                                <i 
+                                    className="fas fa-sign-in-alt footerIcon"
                                     aria-hidden="true"></i>
                             </Link>
                         )}
