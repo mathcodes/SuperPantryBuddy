@@ -143,13 +143,13 @@ export default ({ dispatch }) => {
         <LogoSmall/>
             {isAuthenticated ? (
                 <>
-                    <h2>
+                    <h1>
                         Select or enter the items below to either exclude any
                         food intolerances, cuisines, or ingredients, and select
                         a diet if you like. All information will be stored in
                         your settings for future searches until you decide to
                         change them.
-                    </h2>
+                    </h1>
                     <label className="label has-text-centered">
                         Food Intolerances
                     </label>

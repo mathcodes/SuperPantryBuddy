@@ -135,7 +135,7 @@ body {
     display: unset;
 }
 .navbar {
-    min-height: 2.25rem;
+    min-height: 2.50rem;
 }
 /* ------------------------------------- */
 /* ------------- *Cards ---------------- */
@@ -526,11 +526,11 @@ color: black;
         font-size: 70px;
     }
     .navbar{
-        height:auto;
+        height:4rem;
     }
     .tabs {
-        font-size:x-large;
-        padding: 45px 0;
+        font-size: 3rem;
+        padding:2rem;
     }
     .h1Library{
         font-size:60px;
@@ -643,11 +643,11 @@ color: black;
         font-size: 60px;
     }
     .navbar{
-        height:auto;
+        height:4rem;
     }
     .tabs {
-        font-size:x-large;
-        padding: 45px 0;
+        font-size: 3rem;
+        padding:2rem;
     }
     .h1Library{
         font-size:50px;
@@ -768,12 +768,12 @@ color: black;
         padding: 30px 0;
     }
 /* -------- tablet: from 769px ----------*/
-    .navbar{
-        height:auto;
-    }
-    .tabs {
-        font-size:x-large;
-        padding: 45px 0;
+.navbar{
+    height:4rem;
+}
+.tabs {
+    font-size: 3rem;
+    padding:2rem;
     }
     .h1Library{
         font-size:50px;
@@ -889,12 +889,12 @@ color: black;
         font-size:large;
         padding: 35px 0;
     }
-     .navbar{
-        height:auto;
+    .navbar{
+        height:4rem;
     }
     .tabs {
-        font-size:x-large;
-        padding: 45px 0;
+        font-size: 3rem;
+        padding:2rem;
     }
     .h1Library{
         font-size:50px;
