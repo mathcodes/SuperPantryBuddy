@@ -36,7 +36,7 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
 	is done in seconds after entering their ingredients on hand
 	
 ### Wireframes + Prototypes
-<im
+<img alt="wireframes" src="./wireframeProject3.png" />
   
 ## Technologies
 
@@ -57,19 +57,9 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
   - AuthO 
   - Bulma    
 
-## Roles
-
-#### Michael
- - UX, Auth (AuthO), Spoonacular API
- 
-#### Elliott
- - UX, MongoDB, Routing
- 
-#### Jon 
- - UI, Auth0, Routing, CSS using the Bulma Framework
 
 
-## Future Development
+### Future Development
  - Increase options for users including:
    - More filters and sorting methods
    - Ability to communicate with other users in a chat room, comment section, or a blog
@@ -88,21 +78,6 @@ Super Pantry Buddy YouTube Video</a>
 <a href="https://superpantrybuddy.herokuapp.com/">
 ## Super Pantry Buddy</a>
 
-## Challenges and Successes
-
-| Challenges:                                	| Successes:                                                      	|
-|--------------------------------------------	|-----------------------------------------------------------------	|
-| React                                      	| Meeting the deadline                                               	|
-| Deciding on how to implement State            | Regaining Sanity (currently)                                    	|
-| Getting over hurdles of new Syntax + JSX    	| Learning about Authorization (options, uses)                    	|
-| GitHub – broken code  	              	| Understanding the pros and cons of using React and its products 	|
-| Routing                                    	| Gaining much stronger understading of working with Git		|
-| Structure                                  	| Improved our Google-Fu greatly					|
-| Authorization (Firebase attempt)              |                                                                 	|
-| Working and Dividing tasks in a group of 3 	|                                                                 	|
-| Time management amongst group members        	|                                                                 	|
-| 			                     	|                                                                 	|
- 
 ## Licenses
 <a href="https://opensource.org/licenses/MIT">
 <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT"></a>
@@ -111,7 +86,19 @@ Super Pantry Buddy YouTube Video</a>
 Tell SPB your dietary restrictions and what is inside your pantry and you will be given a list of concise, no-fluff recipes.  Gone are the days of reading through a chef’s life story, only to find later on that the dish uses a cream sauce when you clearly googled vegan pasta. Say goodbye to google and let SPB plan tonight’s meal.
 
 ## Usage
-In order to run this app, install the dependencies found in package.json, then run ```npm start```. Once the app is running, login using AuthO with the opions of using Facbook og 
+In order to run this app, install the dependencies found in package.json, then run ```npm start```. Once the app is running, login using AuthO with the opions of using Facebook or Google available.
+
+## Contributers
+
+#### Michael
+ - UX, Auth (AuthO), Spoonacular API
+ 
+#### Elliott
+ - UX, MongoDB, Routing
+ 
+#### Jon 
+ - UI, Auth0, Routing, CSS using the Bulma Framework
+
 
 ## Contact
 This project was created by [Michael](https://github.com/mpn0823), [Elliot](https://github.com/rodgersea), and [Jon](https://github.com/mathcodes).
