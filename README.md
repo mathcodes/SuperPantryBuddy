@@ -34,6 +34,9 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
 	A user on a ketogenic diet, craving a thai dish may have to read 
 	through dozens of recipes in google results.  With SPB, that search
 	is done in seconds after entering their ingredients on hand
+	
+### Wireframes + Prototypes
+<im
   
 ## Technologies
 
