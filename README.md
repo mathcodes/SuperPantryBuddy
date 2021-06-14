@@ -70,11 +70,10 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
  - Include closest options to retrieve ALL ingredients needed and create the directions for you.
 
 ## Video
-<a href="https://youtu.be/E5xU8wh3sA0">
-Super Pantry Buddy YouTube Video</a>
+### <a href="https://youtu.be/E5xU8wh3sA0">Super Pantry Buddy YouTube Video</a>
 
 ## GIF
-## <img src ="https://github.com/Super-Pantry-Buddy/spb/blob/master/client/src/assets/img/SuperPAntryBuddyGif.gif" alt="Super Pantry Buddy" width="670px" height="517px" />
+<img src ="https://github.com/Super-Pantry-Buddy/spb/blob/master/client/src/assets/img/SuperPAntryBuddyGif.gif" alt="Super Pantry Buddy" width="670px" height="517px" />
 
 ## Link
 ### <a href="https://superpantrybuddy.herokuapp.com/">Super Pantry Buddy</a>
@@ -84,7 +83,7 @@ Super Pantry Buddy YouTube Video</a>
 <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT"></a>
 
 ## Context
-Tell SPB your dietary restrictions and what is inside your pantry and you will be given a list of concise, no-fluff recipes.  Gone are the days of reading through a chef’s life story, only to find later on that the dish uses a cream sauce when you clearly googled vegan pasta. Say goodbye to google and let SPB plan tonight’s meal.
+Tell SPB your dietary restrictions and what is inside your pantry and you will be given a list of concise, no-fluff recipes.  Gone are the days of reading through a chef’s life story, only to find later on that the dish uses a cream sauce when you clearly googled vegan pasta. Say goodbye to google and let SPB plan tonight’s meal and save you from wasting food while saving you money!
 
 ## Usage
 In order to run this app, install the dependencies found in package.json, then run ```npm start```. Once the app is running, login using AuthO with the options of using Facebook or Google available.
