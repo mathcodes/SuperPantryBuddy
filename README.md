@@ -4,44 +4,35 @@
 
 
 ## Table of Contents
+  - [License](#license)
   - [Overview](#overview)
   - [Concept](#concept)
   - [Technologies](#technologies)
+  - [Future Development](#Future Development)
   - [Video](#video)     
   - [GIF](#gif)   
   - [Link](#link) 
-  - [Licenses](#licenses)
   - [Context](#context)
   - [Usage](#usage)
   - [Contributers](#contributers)
   - [Contact](#contact)
 
+## License  
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green" alt="MIT"></a>
+
 ## Overview
 Tell SPB your dietary restrictions and what is inside your pantry and you will be given a list of concise, no-fluff recipes.  Gone are the days of reading through a chef’s life story, only to find later on that the dish uses a cream sauce when you clearly googled vegan pasta. Say goodbye to google and let SPB plan tonight’s meal.
 
 ## Concept
+Say you are on a keto diet, craving a Thai dish, on a budget, and only have a few items in his pantry, including limes and noodles. Super Pantry Buddy can help you out and find Thai recipes which cater to the keto diet, and include limes and noodles. Done.
 
-### Description
-	A web app that returns a detailed list of recipes based on a user’s 
-	ingredient list, dietary restrictions and cuisine preference
+In short, Super Pantry Buddy, (SPB), is a web app that returns a detailed list of recipes based on a user’s ingredient list, dietary restrictions and cuisine preferences. The main purpose and motivation behind developing this application was to help users avoid wasting or throwing away food while improving their diet. There is more users can get from Super Pantry Buddy, such as saving customized meals based on personal preferences, diets, limitations, pantry inventory, budget, time, and more. 
 
-### Motivation for Development
-	The main purpose and motivation behind developing this application 
-	was to help users avoid wasting or throwing away food while improving 
-	their diet. There is more users can get from Super Pantry Buddy, 
-	such as saving customized meals based on personal preferences, diets, 
-	limitations, pantry inventory, budget, time, and more. 
-
-### User Story
-	A user on a ketogenic diet, craving a thai dish may have to read 
-	through dozens of recipes in google results.  With SPB, that search
-	is done in seconds after entering their ingredients on hand
-	
-### Wireframes + Prototypes
+### Wireframes
 <img alt="wireframes" src="https://raw.githubusercontent.com/mathcodes/SuperPantryBuddy/main/wireframProject3.png" />
   
 ## Technologies
-
+#### These are the remaining technologies we used in developing this app (the others are shown as badges above).
   - Spoonacular API           
   - Mongoose                   
   - Mongo Atlas                
@@ -49,19 +40,10 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
   - Forage            
   - GitHub                 
   - Google                
-  - HTML 
-  - CSS  
-  - JS 
-  - MERN 
-  - React
   - React Router 
-  - Express 
-  - AuthO 
   - Bulma    
 
-
-
-### Future Development
+## Future Development
  - Increase options for users including:
    - More filters and sorting methods
    - Ability to communicate with other users in a chat room, comment section, or a blog
@@ -77,10 +59,6 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
 
 ## Link
 ### <a href="https://superpantrybuddy.herokuapp.com/">Super Pantry Buddy</a>
-
-## Licenses
-<a href="https://opensource.org/licenses/MIT">
-<img src="https://img.shields.io/badge/License-MIT-green" alt="MIT"></a>
 
 ## Context
 Tell SPB your dietary restrictions and what is inside your pantry and you will be given a list of concise, no-fluff recipes.  Gone are the days of reading through a chef’s life story, only to find later on that the dish uses a cream sauce when you clearly googled vegan pasta. Say goodbye to google and let SPB plan tonight’s meal and save you from wasting food while saving you money!
