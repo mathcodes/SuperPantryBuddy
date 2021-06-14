@@ -8,7 +8,7 @@
   - [Overview](#overview)
   - [Concept](#concept)
   - [Technologies](#technologies)
-  - [Future Development](#Future Development)
+  - [Future Development](#futuredevelopment)
   - [Video](#video)     
   - [GIF](#gif)   
   - [Link](#link) 
@@ -43,7 +43,7 @@ In short, Super Pantry Buddy, (SPB), is a web app that returns a detailed list o
   - React Router 
   - Bulma    
 
-## Future Development
+## FutureDevelopment
  - Increase options for users including:
    - More filters and sorting methods
    - Ability to communicate with other users in a chat room, comment section, or a blog
