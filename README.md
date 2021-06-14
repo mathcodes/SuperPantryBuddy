@@ -26,7 +26,11 @@ Tell SPB your dietary restrictions and what is inside your pantry and you will b
 	ingredient list, dietary restrictions and cuisine preference
 
 ### Motivation for Development
-	Dissatisfaction with google’s recipe search results 
+	The main purpose and motivation behind developing this application 
+	was to help users avoid wasting or throwing away food while improving 
+	their diet. There is more users can get from Super Pantry Buddy, 
+	such as saving customized meals based on personal preferences, diets, 
+	limitations, pantry inventory, budget, time, and more. 
 
 ### User Story
 	A user on a ketogenic diet, craving a thai dish may have to read 
