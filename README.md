@@ -1,30 +1,7 @@
-<img src="https://raw.githubusercontent.com/mathcodes/SuperPantryBuddy/main/client/src/assets/img/SPBheaderLOGO.png" alt="headerimg"/>
+<img src="https://raw.githubusercontent.com/mathcodes/SuperPantryBuddy/main/client/src/assets/img/SPBheaderLOGO.png" alt="headerimg"/>  
+ 
+![badge](https://img.shields.io/badge/javascript-%23222?logo=javascript&style=plastic) ![badge](https://img.shields.io/badge/css3-%23222?logo=css3&style=plastic) ![badge](https://img.shields.io/badge/html5-%23222?logo=html5&style=plastic) ![badge](https://img.shields.io/badge/react-%23222?logo=react&style=plastic) ![badge](https://img.shields.io/badge/nodejs-%23222?logo=nodedotjs&style=plastic) ![badge](https://img.shields.io/badge/npmjs-%23222?logo=npm&style=plastic) ![badge](https://img.shields.io/badge/jest-%23222?logo=jest&style=plastic) ![badge](https://img.shields.io/badge/auth0-%23222?logo=auth0&style=plastic)
 
-![badge](https://img.shields.io/badge/javascript-%23222?logo=javascript&style=plastic)
-![badge](https://img.shields.io/badge/css3-%23222?logo=css3&style=plastic)
-![badge](https://img.shields.io/badge/html5-%23222?logo=html5&style=plastic)
-![badge](https://img.shields.io/badge/react-%23222?logo=react&style=plastic)
-![badge](https://img.shields.io/badge/nodejs-%23222?logo=nodedotjs&style=plastic)
-![badge](https://img.shields.io/badge/npmjs-%23222?logo=npm&style=plastic)
-![badge](https://img.shields.io/badge/jest-%23222?logo=jest&style=plastic)
-![badge](https://img.shields.io/badge/auth0-%23222?logo=auth0&style=plastic)
-
-![badge](https://img.shields.io/badge/Tech-Mongo-green)  ![badge](https://img.shields.io/badge/Tech-Express-blue)  ![badge](https://img.shields.io/badge/Tech-React-teal)   ![badge](https://img.shields.io/badge/Tech-Node-olive)   
-
-![badge](https://img.shields.io/badge/@auth0-^1.0.0-red) ![badge](https://img.shields.io/badge/@testing&ndash;library/jest&ndash;dom-^4.2.4-red) ![badge](https://img.shields.io/badge/@testing&ndash;library/react-^9.5.0-red) ![badge](https://img.shields.io/badge/@testing&ndash;library/user&ndash;event-^7.2.1-red) ![badge](https://img.shields.io/badge/react&ndash-^16.13.1-red) ![badge](https://img.shields.io/badge/react&ndash;dom-^16.13.1-red) ![badge](https://img.shields.io/badge/react&ndash;router&ndash;dom-^5.2.0-red) ![badge](https://img.shields.io/badge/react&ndash;scripts-3.4.3-red) ![badge](https://img.shields.io/badge/uuid-8.3.0-red)
-
-
-
-$javascript: #d0b34a;
-$css3: #366daf;
-$html: #cb5434;
-$react: #6bcdf3;
-$axios: #4291d3;
-$nodejs: #63974d;
-$npmjs: #bc423b;
-$dotenv: #e7d65c;
-$jest: #974d57;
-$auth0: #d25c34;
 
 ## Table of Contents
   - [Overview](#overview)
