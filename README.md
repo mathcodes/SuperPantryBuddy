@@ -2,8 +2,7 @@
 
 ![badge](https://img.shields.io/badge/Tech-Mongo-green)  ![badge](https://img.shields.io/badge/Tech-Express-blue)  ![badge](https://img.shields.io/badge/Tech-React-teal)   ![badge](https://img.shields.io/badge/Tech-Node-olive)   
 
-![badge](https://img.shields.io/badge/Tech-Mongo-green) 
-
+![badge](https://img.shields.io/badge/@auth0-^1.0.0-red) ![badge](https://img.shields.io/badge/@testing&ndash;library/jest&ndash;dom-^4.2.4-red) ![badge](https://img.shields.io/badge/@testing&ndash;library/react-^9.5.0-red) ![badge](https://img.shields.io/badge/@testing&ndash;library/user&ndash;event-^7.2.1-red) ![badge](https://img.shields.io/badge/react&ndash-^16.13.1-red) ![badge](https://img.shields.io/badge/react&ndash;dom-^16.13.1-red) ![badge](https://img.shields.io/badge/react&ndash;router&ndash;dom-^5.2.0-red) ![badge](https://img.shields.io/badge/react&ndash;scripts-3.4.3-red) ![badge](https://img.shields.io/badge/uuid-8.3.0-red)
 
 ## Table of Contents
   - [Overview](#overview)
