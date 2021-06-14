@@ -1,4 +1,4 @@
-# Super Pantry Buddy
+<img src="https://raw.githubusercontent.com/mathcodes/SuperPantryBuddy/main/client/src/assets/img/SPBheaderLOGO.png" alt="headerimg"/>
 
 ![badge](https://img.shields.io/badge/Tech-Mongo-green)  ![badge](https://img.shields.io/badge/Tech-Express-blue)  ![badge](https://img.shields.io/badge/Tech-React-teal)   ![badge](https://img.shields.io/badge/Tech-Node-olive)   
 
