@@ -77,8 +77,7 @@ Super Pantry Buddy YouTube Video</a>
 ## <img src ="https://github.com/Super-Pantry-Buddy/spb/blob/master/client/src/assets/img/SuperPAntryBuddyGif.gif" alt="Super Pantry Buddy" width="670px" height="517px" />
 
 ## Link
-<a href="https://superpantrybuddy.herokuapp.com/">
-## Super Pantry Buddy</a>
+### <a href="https://superpantrybuddy.herokuapp.com/">Super Pantry Buddy</a>
 
 ## Licenses
 <a href="https://opensource.org/licenses/MIT">
@@ -93,13 +92,13 @@ In order to run this app, install the dependencies found in package.json, then r
 ## Contributers
 
 #### Michael
- - UX, Auth (AuthO), Spoonacular API
+ - UX, AuthO, Spoonacular API
  
 #### Elliott
  - UX, MongoDB, Routing
  
 #### Jon 
- - UI, Auth0, Routing, CSS using the Bulma Framework
+ - UI, Auth0, Routing, CSS, Bulma
 
 
 ## Contact
